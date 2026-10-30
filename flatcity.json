@@ -1,0 +1,14 @@
+{
+  "public": true,
+  "lostcity": {
+    "description": "Ville partout et sol plat (Y=71)",
+    "extraDescription": "A utiliser avec le type de monde Default, pas Superflat"
+  },
+  "cities": {
+    "cityChance": 0.2,
+    "cityMaxRadius": 256,
+    "cityMinHeight": -1024,
+    "cityMaxHeight": 2048,
+    "cityLevel0Height": 384
+  }
+}
